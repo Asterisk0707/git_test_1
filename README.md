@@ -45,8 +45,8 @@ README파일이란?
 <script>
   let now = new Data();
   document.write();
-</script>```
-
+</script>
+```
 ##링크 입력하기
 1. <주소>
 2. [텍스트](주소)
